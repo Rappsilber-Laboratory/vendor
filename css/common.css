@@ -115,6 +115,11 @@ table {
     background-color: white;
     text-align: left;
 }
+
+table:focus{
+    outline: none;
+}
+
 thead{
     margin-top:10px;
     margin-bottom:10px;
