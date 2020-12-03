@@ -106,7 +106,7 @@ button:disabled {
 /*tables*/
 table {
     width:100%;
-    font-size: 0.9em;
+    /*font-size: 0.9em;*/
     left: auto;
     position: relative;
     margin-left: auto;
